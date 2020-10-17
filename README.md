@@ -1,6 +1,8 @@
 # flutter_app
 
-A new Flutter application.
+Mock of instagram
+
+![Screenshot_1602910479](https://user-images.githubusercontent.com/72084289/96328646-5aca5580-1080-11eb-8b2a-90621137b394.png)
 
 ## Getting Started
 
